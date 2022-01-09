@@ -12,6 +12,8 @@ p{
 }
 </code>
 
+<img src="blog - home.png" alt="imagem do projeto">
+
 <p>
     Dessa forma nossa tag 'p' terá a cor #313131.
     Por que usar variáveis? Se for uma aplicação grande, será chato ficar procurando todos os títulos da página para mudar de cor.
