@@ -12,7 +12,7 @@ p{
 }
 </code>
 
-<img src="blog - home.png" alt="imagem do projeto">
+<img src="img/exemplo.png" alt="imagem do projeto">
 
 <p>
     Dessa forma nossa tag 'p' terá a cor #313131.
